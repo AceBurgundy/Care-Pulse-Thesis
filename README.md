@@ -2,8 +2,6 @@
 
 **Care Pulse** is a Flutter-based mobile application developed as part of a thesis project. It is designed to help motorcycle owners easily monitor and manage the health and maintenance of their vehicles by connecting with the motorcycle's onboard diagnostic system (OBD2) via Bluetooth.
 
----
-
 ## 🚀 Features
 
 ### 🛵 Motorcycle Registration
@@ -36,15 +34,11 @@
 * Designed to act as a smart companion during your rides.
 * Customize layouts, sensor displays, and visual themes. *(Coming soon)*
 
----
-
 ## 📱 Built With
 
 * **Flutter** – for cross-platform mobile development
 * **Bluetooth & OBD2 Integration** – for real-time motorcycle diagnostics
 * **Provider** – for state management
-
----
 
 ## ⚙️ Setup & Installation
 
@@ -69,8 +63,6 @@
 
 > **Note:** Make sure Bluetooth permissions are enabled on your device.
 
----
-
 ## 📌 Future Improvements
 
 * 🧭 Customizable dashboard with multiple layout presets
@@ -78,19 +70,13 @@
 * 📍 GPS-based ride logging
 * ☁️ Cloud backup and sync
 
----
-
 ## 📚 Thesis Context
 
 This application was developed as part of a final-year thesis project to explore the intersection of IoT, Bluetooth communication, and mobile app development for real-world automotive applications.
 
----
-
 ## 📩 Feedback & Contributions
 
 Your feedback is welcome! Feel free to fork the repo, submit issues, or suggest features.
-
----
 
 ## 📄 License
 
